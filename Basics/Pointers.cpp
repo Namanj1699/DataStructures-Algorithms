@@ -7,7 +7,7 @@ int main()
     int a=10;
     int *p = &a;
 
-    //allocating memory in heap for that we use the concept of malloc
+    //allocating memory in heap for that we use the concept of malloc (Memory allocation).
 
     int *pnt;
     pnt = (int *)malloc(5*sizeof(int));
