@@ -30,7 +30,6 @@ void bubbleSort(int arr[ ],int n)
         
         if(flag==0)
         {
-            printf("list is already sorted\n");
             break;
         }
     }
